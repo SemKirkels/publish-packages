@@ -259,3 +259,6 @@ Here's a recap of all the tasks you've accomplished in your repository:
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+### Docker Pull
+![Docker_Pull](https://user-images.githubusercontent.com/101119408/192134820-00c23abe-07c2-4f20-8b2d-278e2e910198.jpeg)
